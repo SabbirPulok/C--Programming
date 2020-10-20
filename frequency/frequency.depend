@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1474889745 source:c:\users\iqbal\desktop\whats the frequency.cpp
+	<iostream>
+	<bits/stdc++.h>
+

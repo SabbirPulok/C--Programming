@@ -1,0 +1,2 @@
+The 8 th number of the fibonacci series 13
+ The step taken for this algorithm 6

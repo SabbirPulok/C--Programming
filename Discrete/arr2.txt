@@ -1,0 +1,2 @@
+The 10th number of the fibonacci series 34
+The step taken for this algorithm 1

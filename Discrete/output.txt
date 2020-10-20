@@ -1,0 +1,1 @@
+The location of your searching number in ur array: 50000

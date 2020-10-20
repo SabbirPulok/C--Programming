@@ -1,0 +1,3 @@
+How many number?
+The 8 th number of this series: 13
+The number of step taken 127
